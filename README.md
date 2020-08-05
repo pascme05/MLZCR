@@ -6,7 +6,7 @@ for possible zero crossings between a minimum and maximum value. The paper can b
 The code for the MLZCR is provided for Matlab and python implementation.
 
 1) Inputs  
-x:        frame of a signal with abitrary length  
+x:        frame of a signal with arbitrary length  
 nlayers:  number of zero crossing layers  
 xmin:     static minimum value of the signal (optional)  
 xmax:     static maximum value of the signal (optional)  
