@@ -1,5 +1,5 @@
 # Multi-Layer Zero Crossing Rate (MLZCR)
-This code implements a more general version of the MLZCR as proposed in [1] for energy disaggregation. In detail, abitrary frames of signals are processed using multiple layers
+This code implements a more general version of the MLZCR as proposed in [1] for energy disaggregation. In detail, arbitrary frames of signals are processed using multiple layers
 for possible zero crossings between a minimum and maximum value. The paper can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/9054637) and [here](https://www.pascalschirmer.com/)
 
 # Code
